@@ -1,0 +1,3 @@
+# Requirements
+- VS Code
+- Python
