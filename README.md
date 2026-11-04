@@ -1,7 +1,9 @@
 # Python-test2
 The second version of Python quiz, https://github.com/At0tallynormalperson/Python-quiz
 # You will need
-Go to requirements.txt bro
+Go to REQUIREMENTS.md bro
+REQUIREMENTS.md: (REQUIREMENTS.md)
+
 # How to use
 Run it in the terminal, type your name (we do not collect your name bro)
 And answer the questions.
